@@ -1,2 +1,2 @@
 # RepositorioHenry
-Para Homework2 Ejercicio 1
+Para Homework 2 Ejercicio 1
